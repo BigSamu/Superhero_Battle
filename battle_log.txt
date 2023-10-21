@@ -1,0 +1,7 @@
+TEAM 1 v/s TEAM 2
+ROUND 1 - Darkhawk (HP: 1916.69) v/s Storm (HP: 565.82) - GANADOR: Darkhawk
+ROUND 2 - Etrigan (HP: 123.92) v/s Beetle (HP: 110.22) - GANADOR: Etrigan
+ROUND 3 - A-Bomb (HP: 1283.18) v/s Deadman (HP: 351.25) - GANADOR: A-Bomb
+ROUND 4 - A-Bomb (HP: 1283.18) v/s Han Solo (HP: 627.27) - GANADOR: A-Bomb
+ROUND 5 - Punisher (HP: 525.69) v/s Big Daddy (HP: 1089.47) - GANADOR: Punisher
+GANADOR: TEAM 1
